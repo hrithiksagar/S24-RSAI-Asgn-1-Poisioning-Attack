@@ -1,0 +1,5 @@
+1: Poisoning Attacks: Trojans
+notebook  	https://colab.research.google.com/drive/1bjT_vyCI1P-HwqPAFAYx_BMxxbY__qw4
+Video: 		https://www.youtube.com/watch?v=KnA_aTQ9upU&ab_channel=CenterforAISafety 
+Reading: 	https://github.com/centerforaisafety/Intro_to_ML_Safety/blob/master/Trojans/trojans.md
+
