@@ -1,0 +1,11 @@
+3: Paper distillation (30m)
+Read, and pick one paper from Lilian Wengʼs blogpost on adversarial attacks, and distill it. Distillation (as opposed to summarization) focuses on making someone who has not read the paper understand its most important contributions. Unlike summarization, you are encouraged to provide your own insights from the methodology and interpretations of the results. Feel free to copy important figures/statements from the paper. Your distillation should contain atleast the following:
+Motivation, i.e. what research gaps do they address - (5 Marks)
+Methodology - (10 marks)
+Main Conclusions and Rationale behind them - (5 marks)
+Critique the paper (unanswered questions, any limitations that the paper didnʼt address, and anything that you are skeptical about) - (10 marks)
+Word Limit: >= 650 words <= 1500 words
+
+Blogpost: https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/
+
+
