@@ -1,0 +1,14 @@
+2: White-box Evasion attacks (40m)
+In this part of the assignment, you will be training your own model for an image classification task and implementing white-box adversarial attacks to confuse the model. Please refer to resources 1, 2, and 3 for more information and code examples.
+
+/var/folders/vj/ts4njmnj47nb35t7t71_91br0000gn/T/TemporaryItems/NSIRD_screencaptureui_A6jTA2/Screenshot 2024-02-13 at 19.23.23.png
+
+Data:
+torchvision.datasets.MNIST(root: str, train: bool = True, transform: Optional[Callable] = None, target_transform: Optional[Callable] = None, download: bool = False)
+Resources
+1. https://iiitaphyd-my.sharepoint.com/:p:/g/personal/pk_guru_iiit_ac_in/Edc7wkGMsnBKqodLydvqC0EBdNGK55wA-2zoesk5AmIPeg?rtime=neIVi04t3Eg
+2. https://adversarial-ml-tutorial.org/introduction/
+3. https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
+
+1. Download the MNIST dataset, and train a deep learning model of your own from scratch for this dataset. You must write a report on your classification accuracy for the train and test data.
+
